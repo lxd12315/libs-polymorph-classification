@@ -1,0 +1,10 @@
+data/
+figures/
+reports/*.mat
+reports/*.csv
+*.asv
+*.fig
+*.mlx
+local_config.m
+.DS_Store
+Thumbs.db
